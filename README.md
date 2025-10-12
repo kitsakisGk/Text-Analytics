@@ -489,23 +489,3 @@ text-analytics/
 
 ---
 
-## License
-
-This project is licensed under the MIT License.
-
-## Contact
-
-**Georgios Kitsakis**
-- GitHub: [@kitsakisGk](https://github.com/kitsakisGk)
-- LinkedIn: [Add your LinkedIn]
-
----
-
-<div align="center">
-
-**Athens University of Economics and Business**
-*Master's in Data Science*
-
-Made with ❤️ for Natural Language Processing
-
-</div>
